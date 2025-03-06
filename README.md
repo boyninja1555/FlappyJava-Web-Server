@@ -1,2 +1,2 @@
-# FlappyJava-Web-Server
+# FlappyJava Web Server
 No description (yet)
