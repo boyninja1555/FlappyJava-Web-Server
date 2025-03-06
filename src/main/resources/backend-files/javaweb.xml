@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<javaweb>
+    <bind>
+        <protocol>http</protocol>
+        <host>0.0.0.0</host>
+        <port>80</port>
+    </bind>
+    <routes>
+        <route>
+            <path>/</path>
+            <public-file>index.html</public-file>
+        </route>
+    </routes>
+</javaweb>
